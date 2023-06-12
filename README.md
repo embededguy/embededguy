@@ -1,16 +1,24 @@
-### Hi there 👋
+# INTRO
+### Hi there, My Name is Prakash Choudhary
+### I'm a Web Developer and Embedded System Engineer 
+Currently i am  studying in fourth year Engineering in EXTC which would be completed in year 2023. I also make videos on Techinical content on my YouTube channel
 
-<!--
-**embededguy/embededguy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=embededguy&theme=vue"/></div>  
+  
+# Links
+<div align="center">
+<a href="https://github.com/embededguy"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="mailto:choudharyprakash0660@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://hackerrank.com/prakash0660"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"/></a>
+<a href=""><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+</div>  
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Language Stack
+
+`C++` `Rust` `Java` `Ruby` `Javascript` `Python` `PHP` `Bash` `HTML` `CSS`  
+
+
+# Tools
+
+`ReactJS` `YEW.rs` `Tauri` `GTK` `KiCAD` `FPGA` `Arduino` `RaspberryPi` `STM`
